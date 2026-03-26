@@ -17,6 +17,7 @@ A basic repo following a tutorial by https://data-flair.training/blogs/project-i
 │   ├── interim        <- Intermediate data that has been transformed.
 │   ├── processed      <- The final, canonical data sets for modeling.
 │   └── raw            <- The original, immutable data dump.
+|   └── train          <- The training data.
 │
 ├── docs               <- A default mkdocs project; see www.mkdocs.org for details
 │
